@@ -1,0 +1,17 @@
+
+body {
+    font: 20px Arial, sas-serif;
+}
+
+.navbar {
+    background-color: green;
+}
+
+.section {
+    background-color: blue;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px ;
+}
